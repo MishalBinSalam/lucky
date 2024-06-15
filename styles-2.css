@@ -79,6 +79,7 @@ body {
     display: flex;
     gap: 10px;
     flex-wrap: wrap;
+    left: 15px;
 }
 
 .coupon {
