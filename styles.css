@@ -137,8 +137,9 @@ h1 {
 
 @media (max-width: 480px) {
     .logo img {
-        height: 25px;
+        height: 35px;
         width: auto;
+        top: 30px;
     }
 
     h1 {
