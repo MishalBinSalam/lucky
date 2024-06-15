@@ -129,7 +129,8 @@ body {
         font-size: 10px;
     }
     .logo img {
-        height: 25px;
+        height: 35px;
         width: auto;
+        top: 30px;
     }
 }
