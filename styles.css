@@ -87,7 +87,7 @@ h1 {
 }
 
 .form-container button {
-    padding: 10px 20px;
+    padding: 15px 30px;
     border: none;
     border-radius: 5px;
     background-color: #D4212A;
@@ -130,7 +130,7 @@ h1 {
     }
 
     .form-container button {
-        padding: 8px 16px;
+        padding: 10px 20px;
         font-size: 14px;
     }
 }
@@ -157,7 +157,7 @@ h1 {
     }
 
     .form-container button {
-        padding: 6px 12px;
+        padding: 8px 16px;
         font-size: 12px;
     }
 }
